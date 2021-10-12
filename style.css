@@ -39,7 +39,7 @@ main span {
     cursor: pointer;
 }
 
-main button {
+/* main button {
     width: 50px;
     height: 50px;
     border-radius: 25px;
@@ -49,7 +49,7 @@ main button {
     cursor: pointer;
     margin: 2px;
     font-family: 'Yomogi', cursive;
-}
+} */
 
 canvas {
     cursor: url("./create_black_24dp.svg"), auto;
