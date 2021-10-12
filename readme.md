@@ -2,7 +2,7 @@
 
 or, SuperDraw for short
 
-![screenshot.png]
+![Screenshot](https://github.com/mchlol/superdraw/blob/main/screenshot.png)
 
 Starting point is [this tutorial from SuperHi](https://library.superhi.com/posts/how-to-draw-and-paint-using-html-canvas) and then I mucked around with it a little bit for fun. 
 
