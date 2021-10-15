@@ -4,7 +4,7 @@ or, SuperDraw for short.
 
 ### [Play Here](https://mchlol.github.io/superdraw/)
 
-![Screenshot](https://github.com/mchlol/superdraw/blob/main/superdraw-screenshot-nick.png]
+![Screenshot](https://github.com/mchlol/superdraw/blob/main/superdraw-screenshot-nick.png)
 
 Starting point is [this tutorial from SuperHi](https://library.superhi.com/posts/how-to-draw-and-paint-using-html-canvas) and then I mucked around with it a little bit for fun. 
 
