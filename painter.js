@@ -43,8 +43,8 @@ document.addEventListener('mousemove', function (event) {
 //     })
 // })
 
-document.querySelectorAll('main span').forEach(btn => {
-    btn.addEventListener('click', function (event) {
+document.querySelectorAll('main span').forEach(icon => {
+    icon.addEventListener('click', function (event) {
         ctx.strokeStyle = this.style.color
         console.log('clicked')
     })
